@@ -42,7 +42,7 @@ I am a self-taught developer based in Calicut. My first degree was in Fire and S
 </td><td valign="top" width="80%">
 
 <div align="center">
-<img src="https://media4.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=ecf05e47vu8ds7c5goqgkbstrxhmvejrzo1p9wh9df4jljfk&ep=v1_gifs_related&rid=giphy.gif&ct=g" align="center" style="width: 300px; height:400px" />
+<img src="https://media4.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif?cid=ecf05e47vu8ds7c5goqgkbstrxhmvejrzo1p9wh9df4jljfk&ep=v1_gifs_related&rid=giphy.gif&ct=g" align="center" style="width: 300px; height:300px" />
 </div>  
 
 
