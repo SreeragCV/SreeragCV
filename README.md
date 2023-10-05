@@ -1,10 +1,10 @@
 ## Hey👋, I'm Sreerag Mohan!  
   
 
-<a href="https://linkedin.com/in/iamrishavanand" target="_blank">
+<a href="https://linkedin.com/in/sreerag-mohan-43857021a" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
+<a href="https://instagram.com/_sreerag__" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/SreeragCV" target="_blank">
@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I am a self-taught developer based in Calicut. My first degree was in Fire and Safety Engineering, but eventually discovered my true calling in Coding and Programming. As I started following my true passion and my curiosity towards learning new things, it helped me a lot for learning all the fundamentals in web development and coding. And now I can proudly say that I am a full-stack MERN developer and the good thing about becoming a programmer is you never stops learning. So I am always ready to grasp, learn and do what ever is out there.  
+I am a self-taught developer based in Kannur. My first degree was in Fire and Safety Engineering, but eventually discovered my true calling in Coding and Programming. As I started following my true passion and my curiosity towards learning new things, it helped me a lot for learning all the fundamentals in web development and coding. And now I can proudly say that I am a full-stack MERN developer and the good thing about becoming a programmer is you never stops learning. So I am always ready to grasp, learn and do what ever is out there.  
   
 
 <br/>  
@@ -30,7 +30,7 @@ I am a self-taught developer based in Calicut. My first degree was in Fire and S
 - 🏚️I’m based in Kannur  
   
 
-- 🖥️See my portfolio at <a href="https://sreeragcv.github.io/PersonalWebsite/">Sreerag</a>   
+- 🖥️See my portfolio at <a href="https://www.sreerag.xyz/">Sreerag</a>   
   
 
 - ❓Ask me about anything related to MERN stack and related technologies  
