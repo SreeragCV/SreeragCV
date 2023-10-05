@@ -76,7 +76,7 @@ I am a self-taught developer based in Kannur. My first degree was in Fire and Sa
 
 
 ## Github Stats  
-<table style="overflow-x: hidden;"><tr><td valign="top" width="50%">
+<table style="overflow: hidden;"><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeragCV&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
